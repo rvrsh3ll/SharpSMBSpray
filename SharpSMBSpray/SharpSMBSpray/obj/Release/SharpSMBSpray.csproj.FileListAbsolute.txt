@@ -1,0 +1,5 @@
+C:\Users\tester\Desktop\GitHub\Sharp_SMBSpray\SharpSMBSpray\SharpSMBSpray\bin\Release\SharpSMBSpray.exe
+C:\Users\tester\Desktop\GitHub\Sharp_SMBSpray\SharpSMBSpray\SharpSMBSpray\obj\Release\SharpSMBSpray.csprojAssemblyReference.cache
+C:\Users\tester\Desktop\GitHub\Sharp_SMBSpray\SharpSMBSpray\SharpSMBSpray\obj\Release\SharpSMBSpray.csproj.CoreCompileInputs.cache
+C:\Users\tester\Desktop\GitHub\Sharp_SMBSpray\SharpSMBSpray\SharpSMBSpray\obj\Release\SharpSMBSpray.exe
+C:\Users\tester\Desktop\GitHub\Sharp_SMBSpray\SharpSMBSpray\SharpSMBSpray\obj\Release\SharpSMBSpray.csproj.Fody.CopyLocal.cache
